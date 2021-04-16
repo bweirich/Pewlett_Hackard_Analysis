@@ -21,6 +21,7 @@ From this analysis the following information was able to be obtained:
 - List of retirement eligible employees with only their current title
 - Number of retirement eligible employees by job title
 - List of eligible employees for the mentorship program and their departmental information
+
 A link to the SQL code for these queries can be found [here](https://github.com/bweirich/Pewlett_Hackard_Analysis/blob/main/Queries/Employee_Database_challenge.sql)
 
 ## Summary
