@@ -31,7 +31,9 @@ The type of mentorship should be taken into account when determining if there ar
 ### Additional Insight
 Some further queries that will add insight into the upcoming vacancies and mentorship program are:
 - Number of male and female retirement eligible employees in each title
+![alt_text](https://raw.githubusercontent.com/bweirich/Pewlett_Hackard_Analysis/main/Images/unique_title_gender.PNG)
 - Average salary of the eligible mentors
+![alt_text](https://raw.githubusercontent.com/bweirich/Pewlett_Hackard_Analysis/main/Images/mentor_salary.PNG) 
 
 By reviewing the number of male and females that hold the same title the diversity of these roles can be reviewed and taken into consideration for the next generation.  This could also be a factor in the mentoring program.
 
